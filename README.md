@@ -7,10 +7,6 @@ Proyecto 6 / PROYECTO-6-Aplicación-backend-con-Autenticación
 
 Bootcamp Fullstack / COHORT 14, 2024
 
-
-
-Bootcamp Fullstack / COHORT 14, 2024
-
 Authors
 Nombre: Carlos Farias Galdames
 
