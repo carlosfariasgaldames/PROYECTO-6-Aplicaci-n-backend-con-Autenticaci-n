@@ -1,5 +1,5 @@
 
-![BANNER PROYECTO6](https://github.com/user-attachments/assets/99c79aa8-42b4-4e84-aaac-9420c02d4f63)
+![BANNER PROYECTO6-01](https://github.com/user-attachments/assets/69b3c446-fbcd-494c-a1a5-c8fe609daea1)
 
 
 Proyecto 6 / PROYECTO-6-Aplicación-backend-con-Autenticación
